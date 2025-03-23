@@ -75,7 +75,7 @@ export const ListaContactos = () => {
     };
 
     return (
-        <div className="container py-5">
+        <div className='mt-3'>
             <h2>Lista de contactos</h2>
 
             <ul className="list-group">
